@@ -66,4 +66,4 @@ git reflog + git reset --hard d103a93
 
 ## ¿Qué comando o comandos usaste en el punto 33?
 
-** git reflog + git reset --hard d08d9b2 **
+git reflog + git reset --hard d08d9b2
